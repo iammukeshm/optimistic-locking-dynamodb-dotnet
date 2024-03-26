@@ -1,0 +1,6 @@
+@DDB.OptimisticLocking_HostAddress = http://localhost:5143
+
+GET {{DDB.OptimisticLocking_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
